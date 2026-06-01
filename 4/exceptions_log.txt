@@ -1,0 +1,2 @@
+CustomDivisionException: Делить на ноль нельзя.
+NumberFormatException: введено не число.
